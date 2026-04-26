@@ -41,6 +41,8 @@ https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD",CNews (1080p)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD",TMC (720p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DecjpWLsfsws/CFQMEzyHyLRG0WGh.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr@SD",DBM TV (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD",Disney Jr. (1080p)
