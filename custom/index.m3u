@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SuryoyoSat.se" group-title="General",Suryoyo Sat
-https://stream-hls.castr.net/66c326077b2f5e54001a1b38/live_e7ebb6206aa411efb410076c4d9f632e/tracks-v1a1/mono.ts.m3u8
+https://stream-hls.castr.net/66c326077b2f5e54001a1b38/live_e7ebb6206aa411efb410076c4d9f632e/index.m3u8
 #EXTINF:-1 tvg-id="ARTEFrench.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" group-title="TNT",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="Info",TV5 Monde Info
