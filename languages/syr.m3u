@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SuryoyoSat.se" group-title="General",Suryoyo Sat
+#EXTINF:-1 tvg-id="SuryoyoSat.se" group-title="Syriac/Assyrian",Suryoyo Sat
 https://stream-hls.castr.net/66c326077b2f5e54001a1b38/live_e7ebb6206aa411efb410076c4d9f632e/index.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq" group-title="Syriac/Assyrian",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AshurTV.iq" group-title="Syriac/Assyrian",Ashur TV
+https://ashur.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ABNSat.us" group-title="Syriac/Assyrian",ABN Sat (Aramaic Broadcasting Network)
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-id="AssyrianTV.ca" group-title="Syriac/Assyrian",Assyrian TV
+https://ca1.buximedia.com/coa/assyriantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AssyriaSat.us" group-title="Syriac/Assyrian",AssyriaSat [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8

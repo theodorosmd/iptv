@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SuryoyoSat.se" group-title="General",Suryoyo Sat
 https://stream-hls.castr.net/66c326077b2f5e54001a1b38/live_e7ebb6206aa411efb410076c4d9f632e/index.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq" group-title="Syriac/Assyrian",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AshurTV.iq" group-title="Syriac/Assyrian",Ashur TV
+https://ashur.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ABNSat.us" group-title="Syriac/Assyrian",ABN Sat (Aramaic Broadcasting Network)
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-id="AssyrianTV.ca" group-title="Syriac/Assyrian",Assyrian TV
+https://ca1.buximedia.com/coa/assyriantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AssyriaSat.us" group-title="Syriac/Assyrian",AssyriaSat [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="ARTEFrench.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" group-title="TNT",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="Info",TV5 Monde Info
@@ -73,6 +83,24 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" tvg-id="TRTKurdi.tr" tvg-chno="10" tvg-country="TR" group-title="Turkey",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" group-title="News",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" group-title="News",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" group-title="News",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" tvg-chno="12" tvg-country="TR" group-title="Turkey",TRT World
@@ -85,6 +113,24 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" tvg-chno="16" tvg-country="TR" group-title="Turkey",TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="Turkey/Séries",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" group-title="Turkey/Séries",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr@SD" group-title="Turkey/Séries",TV 8 (1080p)
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="ATV.tr@SD" group-title="Turkey/Séries",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr@SD" group-title="Turkey/Séries",Kanal 7 (1080p)
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Turkey",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr@SD" group-title="Turkey",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="TV100.tr@SD" group-title="Turkey",TV 100 (1080p)
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr@SD" group-title="Turkey",Habertürk TV (720p)
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-id="AghapyTV.eg" tvg-chno="1" tvg-country="EG" group-title="Egypt",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ghad Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadPlus.eg" tvg-chno="2" tvg-country="EG" group-title="Egypt",Al Ghad Plus
